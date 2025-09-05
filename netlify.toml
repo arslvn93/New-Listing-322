@@ -6,16 +6,16 @@
   # Default build command
   command = "npm run build"
 
+  # API route to Netlify Function for config update
+[[redirects]]
+  from = "/api/config/update"
+  to = "/.netlify/functions/config-update"
+  status = 200
+
 # The following redirect rule ensures that all routes are handled by the React app
 [[redirects]]
   from = "/*"
   to = "/index.html"
-  status = 200
-  
-# API route to Netlify Function for config update
-[[redirects]]
-  from = "/api/config/update"
-  to = "/.netlify/functions/config-update"
   status = 200
 
 # Environment variables can be specified as well
