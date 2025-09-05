@@ -1,0 +1,82 @@
+2. Hero Section
+Large background image: Property exterior with dark overlay
+Property headline: "24 Kylemount Ave, Thornhill"
+Price: "$1,599,000" (highlighted in accent color)
+Brief description: "Exquisite Thornhill Woods Residence with Custom Finishes"
+Key property stats: 4 Bedrooms, 3.5 Bathrooms, 3,200 Sq Ft, 50' x 120' Lot
+Primary CTA button: "GET YOUR EXCLUSIVE HOME PACKAGE" (scrolls to form)
+Purpose: Create immediate visual impact and communicate key selling points
+3. Limited-Time Offer Banner
+Highlighted announcement bar: "LIMITED TIME: Receive a detailed neighborhood analysis and recent comparable sales with your home package!"
+Purpose: Create urgency and promote value-add
+4. Home Highlights Section
+Section heading: "Home Highlights"
+Three feature cards with:
+Feature images (kitchen, primary suite, backyard)
+Feature titles
+Brief descriptions of key selling points
+Purpose: Showcase standout property features with visual support
+5. Photo Gallery
+Section heading: "Photo Gallery"
+Grid layout of 8 property images (living spaces, bedrooms, exterior)
+Hover effect for visual engagement
+Purpose: Provide comprehensive visual tour of the property
+6. Neighborhood Overview
+Section heading: "Thornhill Woods Neighborhood"
+Descriptive paragraph about the neighborhood benefits
+Four stat cards showing:
+Walk Score (98%)
+School Rating (A+)
+Parks Within 1km (5)
+Value Increase (12% over 12 months)
+Purpose: Highlight location benefits and investment potential
+7. Testimonials Section
+Contrasting background color for visual separation
+Section heading: "What My Clients Say"
+Three testimonial cards featuring:
+Client quotes about working with Myless
+Client names and avatars
+Purpose: Build trust through social proof
+8. Exclusive Package Section (Primary Conversion Point)
+Section heading: "Your Exclusive Home Package"
+Package highlights box with 8 included items:
+Detailed Floor Plans
+Recent Neighborhood Sales
+School District Information
+Property Feature List
+Utility Cost Estimates
+Local Amenities Guide
+Home Inspection Tips
+Financing Resources
+Purpose: Clearly outline the value proposition of the offer
+9. Contact Form Section
+Clean, prominent form with:
+Attention-grabbing headline: "Request Your Exclusive Home Package"
+Descriptive subtext explaining the offer
+Form fields (First Name, Last Name, Email, Phone)
+Dropdown for timeframe ("When are you looking to move?")
+Optional message field
+Bold CTA button: "GET MY HOME PACKAGE NOW"
+Privacy reassurance text
+Purpose: Primary lead capture mechanism
+10. Agent Information Section
+Agent photo: Professional headshot
+Credentials: Name, title ("Thornhill Real Estate Specialist")
+Brief bio: Experience and value proposition
+Direct contact options: Phone and email
+Purpose: Humanize the experience and build agent credibility
+11. Neighborhood Map
+Full-width map visual showing property location and surrounding area
+Purpose: Provide geographical context
+12. Footer
+Logo: Smaller version of header logo
+Complete contact information
+Site navigation links
+Legal information and copyright
+Purpose: Reinforce brand and provide additional navigation options
+13. Exit-Intent Popup (Modal)
+Triggered when user moves to leave page
+Attention-grabbing headline: "Don't Miss Your Chance!"
+Simplified lead form: Name, Email, Phone
+Strong CTA: "YES, SEND ME THE PACKAGE"
+Purpose: Last-chance conversion opportunity for exiting visitors

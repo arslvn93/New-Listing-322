@@ -1,0 +1,31 @@
+[build]
+  # Base directory for the build (root of the repo)
+  base = "."
+  # Directory to publish (relative to root of your repo)
+  publish = "dist/public"
+  # Default build command
+  command = "npm run build"
+
+# The following redirect rule ensures that all routes are handled by the React app
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Environment variables can be specified as well
+[build.environment]
+  NODE_VERSION = "20"
+
+# Function directory if you have serverless functions
+[functions]
+  directory = "netlify/functions"
+
+# Headers to return with all requests
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Cache-Control = "public, max-age=3600"
