@@ -1,7 +1,7 @@
 /**
  * Site Configuration
  * This file contains all configurable content for the website
- * Last updated: 2025-09-05T16:20:35.929Z
+ * Last updated: 2025-09-05T16:25:39.447Z
  */
 
 // contactInfo configuration
@@ -13,7 +13,7 @@ export const contactInfo = {
     email: "arslan@salesgenius.co",
     company: "Executive Homes Realty Inc",
     license: "RECO #84397152",
-    repo: "new-listing-1757089235917"
+    repo: "New-Listing-322"
   },
   social: {
     instagram: "https://www.instagram.com/executivehomesrealtyinc/",
