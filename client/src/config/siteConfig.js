@@ -1,7 +1,7 @@
 /**
  * Site Configuration
  * This file contains all configurable content for the website
- * Last updated: 2025-09-05T16:17:01.142Z
+ * Last updated: 2025-09-05T16:20:35.929Z
  */
 
 // contactInfo configuration
@@ -13,7 +13,7 @@ export const contactInfo = {
     email: "arslan@salesgenius.co",
     company: "Executive Homes Realty Inc",
     license: "RECO #84397152",
-    repo: "new-listing-1757089021138"
+    repo: "new-listing-1757089235917"
   },
   social: {
     instagram: "https://www.instagram.com/executivehomesrealtyinc/",
@@ -78,13 +78,13 @@ export const homeShowcaseSections = [
   {
     id: "section2",
     title: "2 Bathrooms",
-    description: "Modern kitchen with premium finishes and appliances.",
+    description: "",
     imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004602781-2912-80 John St-04.jpg"
   },
   {
     id: "section3",
     title: "1249 SqFt",
-    description: "Quiet, well-proportioned bedroom with beautiful natural light and modern fixtures.",
+    description: "",
     imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004609515-2912-80 John St-14.jpg"
   },
   {
