@@ -1,7 +1,7 @@
 /**
  * Site Configuration
  * This file contains all configurable content for the website
- * Last updated: 2025-09-05T16:06:41.637Z
+ * Last updated: 2025-09-05T16:17:01.142Z
  */
 
 // contactInfo configuration
@@ -13,7 +13,7 @@ export const contactInfo = {
     email: "arslan@salesgenius.co",
     company: "Executive Homes Realty Inc",
     license: "RECO #84397152",
-    repo: "new-listing-1757088401635"
+    repo: "new-listing-1757089021138"
   },
   social: {
     instagram: "https://www.instagram.com/executivehomesrealtyinc/",
@@ -71,25 +71,25 @@ export const heroVideo = {
 export const homeShowcaseSections = [
   {
     id: "section1",
-    title: "Glass-Framed Living",
+    title: "2 Bedrooms",
     description: "The immediate brightness and depth of the main space—you see the larger island, the clean sightlines, and the floor-to-ceiling windows all at once. It feels bigger than the square footage.",
     imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004589506-2912-80 John St-01.jpg"
   },
   {
     id: "section2",
-    title: "Culinary Haven",
+    title: "2 Bathrooms",
     description: "Modern kitchen with premium finishes and appliances.",
     imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004602781-2912-80 John St-04.jpg"
   },
   {
     id: "section3",
-    title: "Primary Retreat",
+    title: "1249 SqFt",
     description: "Quiet, well-proportioned bedroom with beautiful natural light and modern fixtures.",
     imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004609515-2912-80 John St-14.jpg"
   },
   {
     id: "section4",
-    title: "Productive Workspace",
+    title: "$$1,495,000",
     description: "Bathroom tiling is floor-to-ceiling on all walls, which looks luxe and improves durability/moisture protection.",
     imageUrl: "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1757004627198-2912-80 John St-20.jpg"
   }
@@ -97,7 +97,7 @@ export const homeShowcaseSections = [
 
 // neighborhood configuration
 export const neighborhood = {
-  name: "Parks & Recreation",
+  name: "Toronto",
   city: "Toronto",
   description: "Toronto's premier destination for culture, dining, and urban living.",
   highlights: [
