@@ -82,7 +82,7 @@ const AdminDashboard = () => {
         },
         body: JSON.stringify({
           section,
-          config: newConfig
+          config: updatedConfig
         }),
       });
       
